@@ -1,6 +1,3 @@
-<link rel="stylesheet" href="styles.css">
-
-
 <h1>
     <img width="30" height="30" src="https://img.icons8.com/plasticine/100/bot.png" alt="bot"/>
     Hello World!
@@ -37,5 +34,9 @@
 
 #
 
+
 <h3 style="margin: 0;">Check out my <a target="_blank" href="https://portfolio.daniel-sinteck.de/">My Portfolio</a> to see my work in live.<h3/>
 
+#
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4t3ck&show_icons=true&theme=radical)
