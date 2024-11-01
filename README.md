@@ -3,10 +3,10 @@
     Hello World!
 </h1>
 
-<div style="margin: 0; font-size: 1.1em;">
-    <span style="display: block; margin: 0;">Welcome to my Github Profile.</span>
-    <span style="display: block; margin: 0;">I'm Daniel, a Frontend Developer from Stade, Germany.</span>
-    <span style="display: block; margin: 0;">Check out <a target="_blank" href="https://portfolio.daniel-sinteck.de/">My Portfolio</a> to see my work live.</span>
+<div style="display: flex; flex-direction: column; gap: 0; margin: 0;">
+    <span style="margin: 0;">Welcome to my Github Profile.</span>
+    <span style="margin: 0;">I'm Daniel, a Frontend Developer from Stade, Germany.</span>
+    <span style="margin: 0;">Check out <a target="_blank" href="https://portfolio.daniel-sinteck.de/">My Portfolio</a> to see my work live.</span>
 </div>
 
 <hr />
