@@ -5,7 +5,6 @@
 
 <h4 style="margin: 0;">Welcome to my Github Profile.</h4>
 <h4 style="margin: 0;">I'm Daniel, a Frontend Developer from Stade, Germany</h4>
-<br>
 <h4 style="margin: 0;">Check out my <a target="_blank" href="https://portfolio.daniel-sinteck.de/">My Portfolio</a> to see my work live.</h4>
 
 #
