@@ -10,9 +10,6 @@
 
 #
 
-![alt text](image-1.png)
-
-
 <h3 style="color: skyblue;">### Tech Stack</h3>
 
 ### Languages & Frameworks
@@ -41,8 +38,3 @@
 </div>
 
 #
-<br>
-<br>
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=D4t3ck&show_icons=true&theme=radical)
