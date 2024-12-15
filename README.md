@@ -46,3 +46,6 @@
 <a target="_blank" href="https://www.linkedin.com/in/daniel-sinteck/">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a target="_blank" href="https://www.xing.com/profile/Daniel_Sinteck/web_profiles">
+    <img alt="xing" src="https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white" />
+</a>
